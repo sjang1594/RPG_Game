@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-RPG_Game.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\skcjf\project\RPG_Game\RPG_Game\Intermediate\Build\Win64\x64\RPG_GameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\skcjf\project\RPG_Game\RPG_Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\RPG_Game\RPG_Game.cpp.obj"
+"C:\Users\skcjf\project\RPG_Game\RPG_Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\RPG_Game\PerModuleInline.gen.cpp.obj"
+"C:\Users\skcjf\project\RPG_Game\RPG_Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\RPG_Game\Default.rc2.res"
+/OUT:"C:\Users\skcjf\project\RPG_Game\RPG_Game\Intermediate\Build\Win64\x64\UnrealEditor\Development\RPG_Game\UnrealEditor-RPG_Game.lib"
